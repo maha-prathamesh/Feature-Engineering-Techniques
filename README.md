@@ -4,4 +4,4 @@
 - Handling outliers
 - Linear model assumptions
 - Rare label handling
-- Linear model assuumptions
+- Linear model assumptions
